@@ -1,2 +1,6 @@
 # GIF
-Cat GIF test.
+Cat GIF 
+I tested :
+- querySelector
+- changeImage
+- setInterval
